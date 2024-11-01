@@ -4,7 +4,7 @@
 ```bash
 git clone https://github.com/kosero/nwsend.git
 cd nwsend && go build .
-mkdir .local/bin && mv ./nwsend .local/bin/
+mkdir $HOME/.local/bin && mv ./nwsend .local/bin/
 ```
 
 # config
