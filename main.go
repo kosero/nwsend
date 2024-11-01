@@ -3,9 +3,9 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-    "strings"
+	"strings"
 	"os"
-    "path/filepath"
+	"path/filepath"
 )
 
 type User struct {
